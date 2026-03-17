@@ -34,7 +34,7 @@ Password: SuperSecretPassword123
 The system should prevent access to the secure page and display an "Invalid credentials" message.
 
 **Actual Result:**  
-The system prevented access to the secure page and displayed the invalid credentials message.
+The system prevented access to the secure page and displayed the message correctly.
 
 **Status:** Passed
 
