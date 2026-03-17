@@ -23,7 +23,7 @@ User must be previously registered in the system.
 1. Access the login page  
 2. Enter a valid username  
 3. Enter an invalid password  
-4. Click the login button  
+4. Click the "Login" button  
 
 **Test Data:**
 
@@ -53,7 +53,7 @@ The system must be accessible.
 1. Access the login page  
 2. Enter an invalid username  
 3. Enter a valid password  
-4. Click the login button  
+4. Click the "Login" button  
 
 **Test Data:**
 
@@ -64,7 +64,7 @@ Password: SuperSecretPassword!
 The system should prevent access to the secure page and display an "Invalid credentials" message.
 
 **Actual Result:**  
-The system prevented access to the secure page and displayed the invalid credentials message.
+The system prevented access to the secure page and displayed the message correctly.
 
 **Status:** Passed
 
@@ -80,7 +80,7 @@ User must be on the registration page with all other fields filled correctly.
 
 **Test Steps:**
 
-1. Access the registration page  
+1. Access the register page  
 2. Fill all required fields correctly  
 3. Leave the "Username" field empty  
 4. Click the "Next" button  
@@ -91,10 +91,10 @@ Minimum characters allowed: 6
 Maximum characters allowed: 30  
 
 **Expected Result:**  
-The system should prevent form submission and display an error message.
+The system should prevent progress and display an error message.
 
 **Actual Result:**  
-The system prevented the submission and displayed the error message correctly.
+The system prevented the advance and displayed the error message correctly.
 
 **Status:** Passed
 
