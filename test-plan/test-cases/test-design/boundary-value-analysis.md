@@ -47,7 +47,7 @@ The system should display a validation message informing that the username does 
 
 **Obtained Result**
 
-The system displayed a validation message informing that the username does not meet the minimum character requirement.
+The system displayed the message correctly.
 
 **Status:** Passed
 
@@ -74,7 +74,7 @@ The system should accept the username and allow the user to proceed to the next 
 
 **Obtained Result**
 
-The system accepted the username and allowed the user to proceed.
+The system allowed the process to continue and displayed the message correctly.
 
 **Status:** Passed
 
@@ -101,7 +101,7 @@ The system should display a validation message informing that the username excee
 
 **Obtained Result**
 
-The system displayed a validation message informing that the maximum character limit was exceeded.
+The system displayed the message correctly.
 
 **Status:** Passed
 
