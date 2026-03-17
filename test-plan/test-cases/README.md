@@ -7,6 +7,7 @@ The test cases cover different modules of the system, including:
 - Authentication
 - Session Control
 - Input Validation
+- Data Validation
 
 Both positive and negative test scenarios are included to verify system behavior under valid and invalid conditions.
 
