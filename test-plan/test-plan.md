@@ -78,6 +78,7 @@ The project includes the following test artifacts:
 - Test Cases
 - Test Project Documentation
 - Bug Reports
+- Evidence
 
 ----
 
