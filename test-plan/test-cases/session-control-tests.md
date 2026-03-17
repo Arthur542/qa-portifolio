@@ -4,6 +4,16 @@ This document contains manual test cases designed to validate session management
 
 The tests verify whether the system properly maintains authenticated sessions, handles logout correctly, and prevents unauthorized access to protected pages.
 
+## Business Rules
+
+BR-SESSION-01: The system must maintain the user session while the user is authenticated.
+
+BR-SESSION-02: The system must allow the user to log in again after performing logout.
+
+BR-SESSION-03: The system must prevent access to protected pages when the user is not authenticated.
+
+BR-SESSION-04: The system must prevent access to protected pages after the user performs logout.
+
 ## SESSION-01 – Refresh secure page while authenticated
 
 **Type:** Positive  
