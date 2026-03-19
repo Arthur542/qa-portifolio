@@ -56,5 +56,3 @@ Including:
 
 ---
 
-💡 This section demonstrates the ability to apply industry-standard test design techniques to create efficient and well-structured test scenarios.
-
