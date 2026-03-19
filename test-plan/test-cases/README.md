@@ -1,25 +1,45 @@
 # Test Cases
 
-This folder contains manual test cases created to validate system functionality.
+## Overview
 
-The test cases cover different modules of the system, including:
+This section contains the **test cases** created to validate the system functionalities based on defined business rules and requirements.
 
-- Authentication
-- Session Control
-- Input Validation
-- Data Validation
+---
 
-Both positive and negative test scenarios are included to verify system behavior under valid and invalid conditions.
+## Objective
 
-Each test case contains the following information:
+* Verify system behavior through structured test cases
+* Ensure all critical functionalities are properly validated
+* Cover both valid and invalid scenarios
 
-- Test Case ID
-- Title
-- Module
-- Priority
-- Preconditions
-- Test Steps
-- Test Data
-- Expected Result
-- Actual Result
-- Status
+---
+
+## Content
+
+This module includes:
+
+* Functional test cases
+* Positive test scenarios
+* Negative test scenarios
+* Input validation tests
+* Boundary and edge case validations
+
+---
+
+## Scope
+
+The test cases cover:
+
+* User Authentication
+* Input validation (username and password rules)
+* Promotion system behavior
+
+---
+
+## Expected Outcome
+
+* Ensure system behaves as expected under different conditions
+* Identify defects through structured validation
+* Provide clear and repeatable test execution steps
+
+---
