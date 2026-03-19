@@ -45,14 +45,13 @@ The validation focuses on detecting inconsistencies in financial calculations th
 
 ## Steps to Reproduce
 
-1. Access the website: https://demo.opencart.com;
-2. Log in with valid credentials
-3. Navigate to the products page
-4. Select the product **"MacBook"**
-5. Add the product to the cart
-6. Open the cart
-7. Proceed to checkout
-8. Observe the subtotal value displayed
+1. Access the website: https://demo.opencart.com
+2. Navigate to the products page
+3. Select the product **"MacBook"**
+4. Add the product to the cart
+5. Open the cart
+6. Proceed to checkout
+7. Observe the subtotal value displayed
 
 ---
 
