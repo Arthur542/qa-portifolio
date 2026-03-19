@@ -22,7 +22,6 @@ This module includes:
 * Positive test scenarios
 * Negative test scenarios
 * Input validation tests
-* Boundary and edge case validations
 
 ---
 
@@ -32,7 +31,7 @@ The test cases cover:
 
 * User Authentication
 * Input validation (username and password rules)
-* Promotion system behavior
+* Session control
 
 ---
 
