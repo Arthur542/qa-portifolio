@@ -20,10 +20,11 @@ User must be previously registered in the system.
 
 **Test Steps:**
 
-1. Access the login page  
-2. Enter a valid username  
-3. Enter an invalid password  
-4. Click the "Login" button  
+1. Access the website: https://the-internet.herokuapp.com/login
+2. Access the login page  
+3. Enter a valid username  
+4. Enter an invalid password  
+5. Click the "Login" button  
 
 **Test Data:**
 
@@ -50,10 +51,11 @@ The system must be accessible.
 
 **Test Steps:**
 
-1. Access the login page  
-2. Enter an invalid username  
-3. Enter a valid password  
-4. Click the "Login" button  
+1. Access the website: https://the-internet.herokuapp.com/login
+2. Access the login page  
+3. Enter an invalid username  
+4. Enter a valid password  
+5. Click the "Login" button  
 
 **Test Data:**
 
@@ -80,10 +82,11 @@ User must be on the registration page with all other fields filled correctly.
 
 **Test Steps:**
 
-1. Access the register page  
-2. Fill all required fields correctly  
-3. Leave the "Username" field empty  
-4. Click the "Next" button  
+1. Access the website: https://accounts.google.com/lifecycle/steps/signup/name?continue=https://myaccount.google.com?utm_source%3Daccount-marketing-page%26utm_medium%3Dcreate-account-button&dsh=S1275079143:1774029772256352&flowEntry=SignUp&flowName=GlifWebSignIn&TL=AHU8sQsvP3J5xkWIYArXuQNXyiodDh_kIXZ9-LHDw2SOoyPblilGhuK5eV1-kwbA
+2. Access the register page  
+3. Fill all required fields correctly  
+4. Leave the "Name" field empty  
+5. Click the "Next" button  
 
 **Test Data:**
 
