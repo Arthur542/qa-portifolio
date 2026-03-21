@@ -20,7 +20,7 @@ Special attention is given to fields like **Full Name**, which must contain suff
 ## Bug Details
 
 * **ID:** BUG-03
-* **Title:** Full Name field accepts invalid input (single character)
+* **Title:** Full Name field accepts invalid input (2 character)
 * **Type:** Input Validation Error
 * **Module:** Text Input
 * **Priority:** High
@@ -48,14 +48,14 @@ Special attention is given to fields like **Full Name**, which must contain suff
 1. Access the website: https://demoqa.com
 2. Navigate to the **"Forms"** section
 3. Fill in all required fields with valid data
-4. Enter only **1 character** in the "Full Name" field
+4. Enter only **2 character** in the "Full Name" field
 5. Click on **"Submit"**
 
 ---
 
 ## Test Data
 
-* **Full Name:** "A"
+* **Full Name:** "A B"
 
 ---
 
