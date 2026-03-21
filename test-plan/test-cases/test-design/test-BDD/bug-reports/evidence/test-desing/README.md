@@ -1,3 +1,27 @@
+# Test Design – Evidence Summary
+
+This module contains evidence of test design techniques applied to validate system behavior through structured approaches.
+
+The following techniques were used:
+
+## Boundary Value Analysis (BVA)
+
+Focuses on testing input limits where defects are more likely to occur.
+Evidence demonstrates how the system behaves at minimum and maximum boundaries, including both valid and invalid scenarios.
+
+## Equivalence Partitioning (EP)
+
+Focuses on dividing input data into valid and invalid groups.
+Evidence demonstrates how the system handles representative inputs from each partition.
+
+---
+
+The evidence presented includes selected scenarios that best represent each technique, ensuring clarity without redundancy.
+
+These tests were designed to validate input fields such as username and password, covering both valid and invalid conditions.
+
+---
+
 # Test Design – Boundary Value Analysis (BVA)
 
 This section presents test scenarios based on Boundary Value Analysis, focusing on validating the limits of the username field.
@@ -88,7 +112,7 @@ The system should reject the input and display a validation message.
 
 Evidence:
 
-![EP Invalid Password](../imagens/ep-invalid-password.png)
+![EP Invalid Password](../images/ep-invalid-password.png)
 
 ---
 
@@ -101,7 +125,7 @@ The system should accept the input.
 
 Evidence:
 
-![EP Valid Password](../imagens/ep-valid-password.png)
+![EP Valid Password](../images/ep-valid-password.png)
 
 ---
 
