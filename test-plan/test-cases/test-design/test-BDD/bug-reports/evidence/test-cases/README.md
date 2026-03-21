@@ -13,7 +13,7 @@ The system should authenticate the user and redirect to the secure page.
 
 **Evidence:**
 
-![Valid Login](../images.md/auth-login.png)
+![Valid Login](../images/auth-login.png)
 
 ---
 
@@ -26,7 +26,9 @@ The system should allow the user to log in again and access the secure area norm
 
 **Evidence:**
 
-![Login After Logout](../image.md/auth-valid-login.png)
+![Logout](../images/logout.png)
+
+![Login](../images/login.png)
 
 ---
 
