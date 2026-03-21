@@ -55,3 +55,56 @@ Evidence:
 
 These scenarios highlight how the system behaves at critical boundary limits, where defects are more likely to occur.
 
+# Test Design – Equivalence Partitioning
+
+This section presents test scenarios based on Equivalence Partitioning, focusing on validating the password field.
+
+## Rule
+
+* Password must contain at least **8 characters**
+* System should accept valid inputs within acceptable limits
+
+---
+
+## Partitions Identified
+
+* Valid Inputs: Passwords with sufficient length (e.g., 50 characters)
+* Invalid Inputs: Passwords below minimum length
+
+---
+
+## Selected Evidence Scenarios
+
+To demonstrate the application of Equivalence Partitioning, representative scenarios from each partition were selected.
+
+---
+
+### Scenario: Password with less than 8 characters
+
+Validates behavior when the input does not meet the minimum requirement.
+
+Expected Behavior:
+The system should reject the input and display a validation message.
+
+Evidence:
+
+![EP Invalid Password](../imagens/ep-invalid-password.png)
+
+---
+
+### Scenario: Password with 50 characters
+
+Validates a valid input within the acceptable range.
+
+Expected Behavior:
+The system should accept the input.
+
+Evidence:
+
+![EP Valid Password](../imagens/ep-valid-password.png)
+
+---
+
+These scenarios demonstrate how the system handles different input groups, ensuring correct validation for both valid and invalid data.
+
+
