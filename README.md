@@ -3,7 +3,7 @@
 
 ## About This Project
 
-This repository contains a complete **Manual QA Testing Portfolio**, developed to demonstrate practical skills in software quality assurance.
+This repository contains a complete **Manual QA Testing Portfólio**, developed to demonstrate practical skills in software quality assurance.
 
 The project covers:
 
