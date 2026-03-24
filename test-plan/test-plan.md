@@ -85,6 +85,6 @@ The project includes the following test artifacts:
 ## 8. Tools
 Tools used during testing:
 
-- Browser: Google Chrome
+- Browser: Google
 - Documentation: Markdown / Sublime Text
 - Repository: GitHub
