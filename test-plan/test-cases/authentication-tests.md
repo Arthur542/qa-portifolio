@@ -38,6 +38,10 @@ System redirected to the secure page and displayed the success message.
 
 **Status:** Passed
 
+**Evidence:**
+
+![Valid Login](..evidence/images/auth-login.png)
+
 ---
 ## AUTH-02 – Login using Enter key
 
